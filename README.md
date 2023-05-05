@@ -8,3 +8,7 @@ Compile with `make` and execute the "main" file.
 
 This code has been developed and tested under WSL: Ubuntu 20.04 
 Any other setups are unsupported.
+
+## Miscellaneous
+
+This work was created for roto1001
